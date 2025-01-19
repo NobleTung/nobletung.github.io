@@ -6,7 +6,7 @@ layout: compress
 
 {
   "name": "FNV Moments",
-  "short_name": "FNV",
+  "short_name": "FNV Moments",
   "description": "{{ site.description }}",
   "icons": [
     {
