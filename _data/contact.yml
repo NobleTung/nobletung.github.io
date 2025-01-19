@@ -10,26 +10,6 @@
    icon: "fa-brands fa-bilibili"
    url: "https://space.bilibili.com/452038587"
 
- - type: steam
-   icon: "fa-brands fa-steam"
-   url: "https://steamcommunity.com/id/nobletung/"
-
- - type: xbox
-   icon: "fa-brands fa-xbox"
-   url: "https://www.xbox.com/zh-CN/play/user/Noble%20E%20Tung"
-
- - type: hamcq
-   icon: "fa-solid fa-h"
-   url: "https://forum.hamcq.cn/u/4874"
-
- - type: qrz
-   icon: "fa-solid fa-globe"
-   url: "https://www.qrz.com/db/BG2FNV"
-
- - type: imessage
-   icon: "fa-brands fa-apple"
-   url: "imessage:NobleTung@icloud.com"
-
  - type: email
    icon: "fas fa-envelope"
    noblank: true # open link in current tab
