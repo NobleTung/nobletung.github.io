@@ -35,6 +35,8 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 ![QSL](/img/site/qsl.jpg)
 
+***
+
 ### 关于本站
 
 本站点由Jekyll驱动，使用Chirpy主题，适用MIT协议。
