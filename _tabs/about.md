@@ -44,7 +44,9 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 ### 今日名言
 
-<iframe frameBorder="0" style="width:450px;height:200px" src="https://kwize.com/quote-of-the-day/embed/&txt=0&font=Georgia&color=000000&background=ffffff&fid=0"></iframe>
+<iframe frameBorder="0" style="width:100%;height:200px" src="https://kwize.com/quote-of-the-day/embed/&txt=0&font=Georgia&color=000000&background=ffffff&fid=0"></iframe>
+
+
 
 
 
