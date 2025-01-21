@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 5
 ---
-<iframe src="https://free.timeanddate.com/clock/i9qc5ai7/fn16/fs20/fc999/ahl/tt0/tw1/tm1/ta1/tb2" frameborder="0" width="330" height="25"></iframe>
+<iframe src="https://free.timeanddate.com/clock/i9qcdst3/fn16/fs20/fc999/tct/pct/ahl/tt0/tw1/tm1/th1/ta1/tb2" frameborder="0" width="297" height="25" allowtransparency="true"></iframe>
 
 ### 你好
 
@@ -17,7 +17,7 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 ### 个人链接
 
-和我一起玩游戏：<a href="https://steamcommunity.com/id/nobletung/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
+和我一起玩：<a href="https://steamcommunity.com/id/nobletung/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Steam</a>  <a href="https://store.epicgames.com/zh-CN/u/03d34458cbf84e4fb5f74fc1adfdc517" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Epic Games</a>  <a href="https://www.xbox.com/zh-CN/play/user/Noble%20E%20Tung" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Xbox</a>
