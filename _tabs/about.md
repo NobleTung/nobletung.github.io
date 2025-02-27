@@ -17,10 +17,12 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 ### 个人链接
 
+*若希望添加好友，请先向我发送电子邮件*
+
 和我一起玩：<a href="https://steamcommunity.com/id/nobletung/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Steam</a>  <a href="https://store.epicgames.com/zh-CN/u/03d34458cbf84e4fb5f74fc1adfdc517" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Epic Games</a>  <a href="https://www.xbox.com/zh-CN/play/user/Noble%20E%20Tung" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
-  Xbox</a>
+  Xbox</a>  <a href="https://lounge.nintendo.com/friendcode/4548-2982-8296/DJhK0VK5R2" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">任天堂</a>
 
 我的评论和视频：<a href="https://forum.hamcq.cn/u/4874" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">HamCQ</a>  <a href="https://space.bilibili.com/452038587" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Bilibili</a>
