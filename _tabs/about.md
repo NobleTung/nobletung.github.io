@@ -31,7 +31,13 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 我的QRZ：<a href="https://www.qrz.com/db/BG2FNV" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">QRZ</a>
 
-------
+***
+
+### QSL卡片样式
+
+![QSL](/img/site/qsl.jpg)
+
+***
 
 ### 友情链接
 
@@ -53,19 +59,19 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 <a href="https://www.ws3917.space/zh-hans/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>
 
-
-
 ![P5](/img/site/about/yuluoxk-p5.png){: .left }
 
 制作一张属于你的预告信，将这份预告信送给你想偷心的人吧。
 
   <a href="https://yuluoxk.cn/p5/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">P5预告信生成器</a>
 
-***
+#### BG2FWT
 
-### QSL卡片样式
+![BG2FWT Avatar](/img/site/about/bg2fwt-avatar.png){: .left }
 
-![QSL](/img/site/qsl.jpg)
+CLoud_A的QRZ主页，看起来他不怎么愿意往这里上传日志。
+
+  <a href="https://qrz.com/db/bg2fwt" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">BG2FWT的QRZ
 
 ***
 
