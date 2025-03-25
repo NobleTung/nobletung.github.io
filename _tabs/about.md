@@ -39,19 +39,27 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 #### WS3917
 
-<a href="https://www.ws3917.space/zh-hans/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>  <img src="https://www.ws3917.space/files/share/image/logo.png" alt="Outertale Logo" height="40">
+![Outertale](/img/site/about/ws3917-outertale.png){: .left }
 
 汉化项目，太空的奇妙冒险故事。
 
+<a href="https://www.ws3917.space/zh-hans/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>  
+
 #### 雨落落的小窝
 
-<a href="https://www.ws3917.space/zh-hans/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>  <img src="http://q1.qlogo.cn/g?b=qq&nk=793856116&s=100" alt="Outertale Logo" height="40" style="border-radius: 50%">
+![Yuluoxk Avatar](/img/site/about/yuluoxk-avatar.png){: .left }
 
 远途而来的旅行者啊，在此暂做歇息吧~
 
-<a href="https://yuluoxk.cn/p5/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">P5预告信生成器</a> <img src="https://yuluoxk.cn/p5/assets/icon.png" alt="Outertale Logo" height="40">
+<a href="https://www.ws3917.space/zh-hans/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>
+
+
+
+![P5](/img/site/about/yuluoxk-p5.png){: .left }
 
 制作一张属于你的预告信，将这份预告信送给你想偷心的人吧。
+
+  <a href="https://yuluoxk.cn/p5/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">P5预告信生成器</a>
 
 ***
 
