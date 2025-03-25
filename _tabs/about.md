@@ -21,15 +21,37 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 和我一起玩：<a href="https://steamcommunity.com/id/nobletung/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Steam</a>  <a href="https://store.epicgames.com/zh-CN/u/03d34458cbf84e4fb5f74fc1adfdc517" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
-  Epic Games</a>  <a href="https://www.xbox.com/zh-CN/play/user/Noble%20E%20Tung" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
-  Xbox</a>  <a href="https://lounge.nintendo.com/friendcode/4548-2982-8296/DJhK0VK5R2" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">任天堂</a>
+  Epic Games</a>  <a href="https://lounge.nintendo.com/friendcode/4548-2982-8296/DJhK0VK5R2" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">任天堂</a>  <a href="https://www.xbox.com/zh-CN/play/user/Noble%20E%20Tung" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
+  Xbox</a>
 
-我的评论和视频：<a href="https://forum.hamcq.cn/u/4874" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">HamCQ</a>  <a href="https://space.bilibili.com/452038587" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
-  Bilibili</a>
+我的动态：<a href="https://forum.hamcq.cn/u/4874" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">HamCQ</a>  <a href="https://space.bilibili.com/452038587" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
+  Bilibili</a>  <a href="https://www.facebook.com/noblee.tung/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">Facebook</a>
 
 通过iMessage向我发送信息：<a href="iMessage:NobleTung@icloud.com" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">Apple信息</a>
 
 我的QRZ：<a href="https://www.qrz.com/db/BG2FNV" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">QRZ</a>
+
+------
+
+### 友情链接
+
+*朋友们超棒的项目*
+
+#### WS3917
+
+<a href="https://www.ws3917.space/zh-hans/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>  <img src="https://www.ws3917.space/files/share/image/logo.png" alt="Outertale Logo" height="40">
+
+汉化项目，太空的奇妙冒险故事。
+
+#### 雨落落的小窝
+
+<a href="https://www.ws3917.space/zh-hans/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>  <img src="http://q1.qlogo.cn/g?b=qq&nk=793856116&s=100" alt="Outertale Logo" height="40" style="border-radius: 50%">
+
+远途而来的旅行者啊，在此暂做歇息吧~
+
+<a href="https://yuluoxk.cn/p5/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">P5预告信生成器</a> <img src="https://yuluoxk.cn/p5/assets/icon.png" alt="Outertale Logo" height="40">
+
+制作一张属于你的预告信，将这份预告信送给你想偷心的人吧。
 
 ***
 
