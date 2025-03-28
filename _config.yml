@@ -96,7 +96,8 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://raw.githubusercontent.com/NobleTung/nobleetung-media-hosting/refs/heads/main"
+# cdn: "https://raw.githubusercontent.com/NobleTung/nobleetung-media-hosting/refs/heads/main"
+cdn: "https://testingcf.jsdelivr.net/gh/NobleTung/nobleetung-media-hosting@main"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/img/site/profile.jpg"
