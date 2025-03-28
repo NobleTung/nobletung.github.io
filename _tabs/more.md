@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fa-solid fa-angles-right
 order: 5
 ---
 <iframe src="https://free.timeanddate.com/clock/i9qcfrb1/fn16/fs20/fc999/tct/pct/pa5/tt0/tw1/tm1/th1/ta1/tb2" frameborder="0" width="305" height="33" allowtransparency="true"></iframe>
@@ -75,14 +75,26 @@ CLoud_A的QRZ主页，看起来他不怎么愿意往这里上传日志。
 
 ***
 
+### 安全邮箱
+
+本站主邮箱支持端对端加密。若要规避大规模监控，您可以使用OpenPGP保护您的邮件内容。
+
+  <a href="https://testingcf.jsdelivr.net/gh/NobleTung/nobleetung-media-hosting@main/public-key/Echo_mail@bg2fnv.top-0xC2939DD5FFE75CAE-pub.asc" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">公钥下载</a>
+
+> 证书有效期截止到2028年3月28日。
+{: .prompt-warning }
+
+此公钥用于<a href="mailto:mail@bg2fnv.top" target="_blank" style="text-decoration: none;">mail@bg2fnv.top</a>，该邮箱仅用于通信。涉及无线电与QSL确认，请使用<a href="mailto:qsl@bg2fnv.top" target="_blank" style="text-decoration: none;">qsl@bg2fnv.top</a>（暂不支持加密）。
+
+***
+
 ### 关于本站
 
 本站点由Jekyll驱动，使用Chirpy主题，适用MIT协议。
 
-站点托管于GitHub Pages，图片从GitHub仓库加载。
+站点托管于GitHub Pages，图片仓库位于GitHub，使用Cloudflare CDN与jsDelivr CDN。
 
-> 若您从中国大陆访问本站时加载卡顿，目前似乎只能忍耐一下。
-{: .prompt-tip }
+若您发现浏览器拦截了Cloudflare跟踪器，您不必担心，该JavaScript用于仅统计访问量，不会收集您的隐私。
 
 ***
 
