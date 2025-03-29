@@ -57,7 +57,7 @@ Outertale汉化项目，太空的奇妙冒险故事。
 
 远途而来的旅行者啊，在此暂做歇息吧~
 
-<a href="https://www.ws3917.space/zh-hans/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>
+<a href="https://yuluoxk.cn/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>
 
 ![P5](/img/site/about/yuluoxk-p5.png){: .left }
 
