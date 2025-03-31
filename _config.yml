@@ -69,7 +69,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: 257fe7a1362c4167bc94f16f61edabab
+    id: 6265a0988f9848e38e763bb7a1c90da0
   fathom:
     id: # fill in your Fathom Site ID
 
