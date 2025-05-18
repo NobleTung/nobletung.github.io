@@ -71,7 +71,15 @@ Outertale汉化项目，太空的奇妙冒险故事。
 
 CLoud_A的QRZ主页，看起来他不怎么愿意往这里上传日志。
 
-  <a href="https://qrz.com/db/bg2fwt" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">BG2FWT的QRZ
+  <a href="https://qrz.com/db/bg2fwt" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">BG2FWT的QRZ</a>
+
+#### 宝藏小树林
+
+![TreasureGrove Avatar](/img/site/about/treasuregrove-avatar.png){: .left }
+
+  <a href="https://treasuregrove.github.io" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">宝藏小树林</a>
+
+世界就像一片精致的小树林，只要细心探索就能发现无限宝藏。
 
 ***
 
