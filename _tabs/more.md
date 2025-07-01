@@ -21,7 +21,7 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 和我一起玩：<a href="https://steamcommunity.com/id/nobletung/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Steam</a>  <a href="https://store.epicgames.com/zh-CN/u/03d34458cbf84e4fb5f74fc1adfdc517" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
-  Epic Games</a>  <a href="https://lounge.nintendo.com/friendcode/4548-2982-8296/DJhK0VK5R2" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">任天堂</a>  <a href="https://www.xbox.com/zh-CN/play/user/Noble%20E%20Tung" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
+  Epic Games</a>  <a href="https://lounge.nintendo.com/friendcode/4548-2982-8296/DJhK0VK5R2" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">Nintendo</a>  <a href="https://www.xbox.com/zh-CN/play/user/Noble%20E%20Tung" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Xbox</a>
 
 我的动态：<a href="https://forum.hamcq.cn/u/4874" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">HamCQ</a>  <a href="https://space.bilibili.com/452038587" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
@@ -43,12 +43,6 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 > {: .prompt-warning }
 
 该邮箱仅用于通信。涉及无线电与QSL确认，请另行使用<a href="mailto:qsl@bg2fnv.top" target="_blank" style="text-decoration: none;">qsl@bg2fnv.top</a>（暂不支持加密）。
-
-***
-
-### QSL卡片样式
-
-![QSL](/img/site/qsl.jpg)
 
 ***
 
