@@ -1,19 +1,16 @@
 ---
-title: 略显琐碎的日常
-description: 这里记录了FNV许多不够单开一篇推文的生活趣事，偶尔可能会出现一个有用的东西。本文将持续更新。
-author: BG2FNV
-date: 2025-03-16 23:30:00 +0800
-categories: [日常, 记录时间线]
-tags: [日常]
-pin: true
-image:
-  path: /img/markdown/daily/fnv_on_air.jpg
-  lqip: data:image/jpeg;base64,/9j/4QDKRXhpZgAATU0AKgAAAAgABgESAAMAAAABAAEAAAEaAAUAAAABAAAAVgEbAAUAAAABAAAAXgEoAAMAAAABAAIAAAITAAMAAAABAAEAAIdpAAQAAAABAAAAZgAAAAAAAAEsAAAAAQAAASwAAAABAAeQAAAHAAAABDAyMjGRAQAHAAAABAECAwCgAAAHAAAABDAxMDCgAQADAAAAAQABAACgAgAEAAAAAQAAC7igAwAEAAAAAQAAB9CkBgADAAAAAQAAAAAAAAAAAAD/2wCEAAEBAQEBAQIBAQIDAgICAwQDAwMDBAUEBAQEBAUGBQUFBQUFBgYGBgYGBgYHBwcHBwcICAgICAkJCQkJCQkJCQkBAQEBAgICBAICBAkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCf/dAAQAAf/AABEIAAoADwMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APxt/Yo/4J+f8E4fiF+yn4L+Nfin4h6fdfEnUlY3nha/voCkzLq8dvJGthHJDdwm2tQf3kjSROXFyYyiqK+bP+Cy37CP7Kn7M/xBPjT9lDxlp2q6FfTss2hWWoR6i+jwghLMPPNdPeTSXkY83y2iCwBHy+GjQfizp2oX+jWMWt6RNJa3sGWinhYpKjK6qCrrhgQOBg8Cma/FGLVLgKPMdIWZsckshJJPqe9ds8RzUI0uzfbr8r9Dko0JQrzqraSS+7a3RfJI/9k=
-  alt: FNV On Air个人Logo
+# the default layout is "page"
+icon: fa-solid fa-mountain
+order: 5
 ---
-# 最新动态
+![light mode only](/img/markdown/daily/fnv_on_air_day.jpeg){: .light }
+![dark mode only](/img/markdown/daily/fnv_on_air_night.jpeg){: .dark }
+
+## 更新表
 
 ![本站更新](https://ghchart.rshah.org/nobletung)
+
+## 最新动态
 
 ### 6月22日
 
@@ -36,6 +33,7 @@ image:
 <div style="width:100%">
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=447926067&auto=0&height=66"></iframe>
 </div>
+
 
 ### 4月17日
 
