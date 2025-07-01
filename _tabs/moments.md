@@ -16,7 +16,7 @@ order: 5
 
 展会上的Hifiman Shangri-La，好听但是太贵了，以及最终买了一副拜亚动力DT 900 Pro X。
 
-![香格里拉耳机](/img/markdown/daily/moments/250628-shangrila.jpeg)
+![香格里拉耳机](/img/markdown/daily/moments/250628-shangrila.jpg)
 
 ### 6月22日
 
