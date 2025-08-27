@@ -15,6 +15,17 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 ***
 
+### 实时日程
+
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="https://icsviewer.ecam.fr/calendar.html?language=zh_Hans&amp;start_of_week=su&amp;starting_hour=7&amp;tab=week&amp;timezone=Asia%2FShanghai&amp;title=Echo&#039;s%20Events&amp;url=https%3A%2F%2Fp175-caldav.icloud.com%2Fpublished%2F2%2FMTc5OTUyODc1NTMxNzk5NYASTJWtrQ2TcQkQk57PtvTwuP_ve6mHNsWgrIQn0NXu5TbKhimopKC-Evcrfdvguv_LWFv4bLRPnpkK08XaG3E&amp;url=https%3A%2F%2Fp175-caldav.icloud.com%2Fpublished%2F2%2FMTc5OTUyODc1NTMxNzk5NYASTJWtrQ2TcQkQk57PtvR7_Qt2rqCMjjB__EwemcKODG5XoyMwZ8Qi18MvSDTeD7M9e4eXcakQk--ZhXJynEg"
+    sandbox="allow-scripts allow-same-origin allow-top-navigation"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="400px" width="100%"></iframe>
+
+***
+
 ### 个人链接
 
 *若希望添加好友，请先向我发送电子邮件*
