@@ -67,7 +67,7 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 Outertale汉化项目，太空的奇妙冒险故事。
 
-<a href="https://www.ws3917.space/zh-hans/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>  
+<a href="https://www.ws3917.space/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>  
 
 #### 雨落落的小窝
 
@@ -75,21 +75,7 @@ Outertale汉化项目，太空的奇妙冒险故事。
 
 远途而来的旅行者啊，在此暂做歇息吧~
 
-<a href="https://yuluoxk.cn/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>
-
-![P5](/img/site/about/yuluoxk-p5.png){: .left }
-
-制作一张属于你的预告信，将这份预告信送给你想偷心的人吧。
-
-  <a href="https://yuluoxk.cn/p5/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">P5预告信生成器</a>
-
-#### BG2FWT
-
-![BG2FWT Avatar](/img/site/about/bg2fwt-avatar.png){: .left }
-
-CLoud_A的QRZ主页，看起来他不怎么愿意往这里上传日志。
-
-  <a href="https://qrz.com/db/bg2fwt" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">BG2FWT的QRZ</a>
+<a href="https://yuluoxk.cn/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>   <a href="https://yuluoxk.cn/p5/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">P5预告信生成器</a>   <a href="https://yuluoxk.cn/more_suzume/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">随机绿猫生成器</a>
 
 #### 宝藏小树林
 
@@ -97,7 +83,15 @@ CLoud_A的QRZ主页，看起来他不怎么愿意往这里上传日志。
 
 世界就像一片精致的小树林，只要细心探索就能发现无限宝藏。
 
-  <a href="https://treasuregrove.github.io" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">宝藏小树林</a>
+  <a href="https://treasuregrove.github.io" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>
+
+#### BG2FOU
+
+![BG2FOU Avatar](/img/site/about/bg2fou-avatar.png){: .left }
+
+BG2FOU的个人主页，啥都写，主要做点无线电和铁路的研究。
+
+  <a href="https://i.bg2fou.top" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>
 
 ***
 
