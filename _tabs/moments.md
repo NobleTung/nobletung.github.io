@@ -12,6 +12,12 @@ order: 5
 
 ## 最新动态
 
+### 9月24日
+
+醍醐灌顶
+
+![现代天线设计](/img/markdown/daily/moments/250924-ant_design.jpg)
+
 ### 6月28日
 
 展会上的Hifiman Shangri-La，好听但是太贵了，以及最终买了一副拜亚动力DT 900 Pro X。
