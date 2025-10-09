@@ -28,7 +28,13 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 ### 个人链接
 
-*若希望添加好友，请先向我发送电子邮件*
+*我相信自由的Web3会是真正的未来，目前只是时间未到而已。*
+
+我的Web3站点（建设中）是<a href="nobletung.web3" target="_blank" style="text-decoration: none;">nobletung.web3</a>，如果你正在使用原生支持Web3的浏览器，如Opera、Brave，你可以直接访问，否则请点击：
+
+<a href="http://ipfs.io/ipfs/Qmey9Z1hvQr89sPDx3rkC5nu8JEa2KuXSWCbg1FieifKsf/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">由IPFS网关访问</a>
+
+*以下是一些个人社交活动页面。若希望添加好友，请先向我发送电子邮件*
 
 和我一起玩：<a href="https://steamcommunity.com/id/nobletung/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
   Steam</a>  <a href="https://store.epicgames.com/zh-CN/u/03d34458cbf84e4fb5f74fc1adfdc517" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">
