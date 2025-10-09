@@ -32,7 +32,7 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 我的Web3站点（建设中）是<a href="nobletung.web3" target="_blank" style="text-decoration: none;">nobletung.web3</a>，如果你正在使用原生支持Web3的浏览器，如Opera、Brave，你可以直接访问，否则请点击：
 
-<a href="http://ipfs.io/ipfs/Qmey9Z1hvQr89sPDx3rkC5nu8JEa2KuXSWCbg1FieifKsf/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">由IPFS网关访问</a>
+<a href="https://ud.me/nobletung.web3" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">由IPFS网关访问</a>
 
 *以下是一些个人社交活动页面。若希望添加好友，请先向我发送电子邮件*
 
