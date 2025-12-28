@@ -143,7 +143,7 @@ noblee.tung@MacBook-Pro ~ % sudo route -n flush
 noblee.tung@MacBook-Pro ~ % netstat -rn
 Internet:
 Destination        Gateway            Flags               Netif Expire
-default      			 127.0.0.1          UGScg            feth4868 
+default            127.0.0.1          UGScg            feth4868 
 ...
 ```
 
