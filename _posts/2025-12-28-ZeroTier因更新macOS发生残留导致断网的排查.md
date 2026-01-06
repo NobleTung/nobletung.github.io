@@ -129,7 +129,7 @@ VLAN Configurations
 
 删除了所有的VPN配置，清理路由表，然后重启电脑。
 
-```
+```shell
 noblee.tung@MacBook-Pro ~ % sudo route -n flush
 ```
 
