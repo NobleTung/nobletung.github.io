@@ -52,14 +52,14 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 ### 安全邮箱
 
-本站点主要邮箱<a href="mailto:mail@bg2fnv.top" target="_blank" style="text-decoration: none;">mail@bg2fnv.top</a>支持E2EE，您可以使用OpenPGP加密您的邮件内容。
+本站点所有邮箱现已全部支持OpenPGP，所有发出的邮件均会签名，若您向邮箱发送加密的邮件，请确保您的公钥可在OpenPGP被发现。您将收到加密的回复。
 
-  <a href="https://testingcf.jsdelivr.net/gh/NobleTung/nobleetung-media-hosting@main/public-key/Echo_mail@bg2fnv.top-0xC2939DD5FFE75CAE-pub.asc" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">公钥下载</a>  <a href="https://www.openpgp.org" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">访问OpenPGP</a>
+主邮箱<a href="mailto:mail@bg2fnv.top" target="_blank" style="text-decoration: none;">mail@bg2fnv.top</a>仅用于通信。涉及无线电与QSL确认，请另行使用<a href="mailto:qsl@bg2fnv.top" target="_blank" style="text-decoration: none;">qsl@bg2fnv.top</a>。
 
-> 证书有效期截止到2028年3月28日。
+  <a href="https://testingcf.jsdelivr.net/gh/NobleTung/nobleetung-media-hosting@main/public-key/Echo_mail@bg2fnv.top-0xC2939DD5FFE75CAE-pub.asc" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主邮箱公钥下载</a>  <a href="https://www.openpgp.org" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">访问OpenPGP</a>
+
+> 证书有效期截止到2028年3月16日。
 > {: .prompt-warning }
-
-该邮箱仅用于通信。涉及无线电与QSL确认，请另行使用<a href="mailto:qsl@bg2fnv.top" target="_blank" style="text-decoration: none;">qsl@bg2fnv.top</a>（暂不支持加密）。
 
 ***
 
