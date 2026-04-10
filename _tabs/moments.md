@@ -12,6 +12,32 @@ order: 5
 
 ## 最新动态
 
+### 3月14日
+
+香港之行圆满结束！
+
+![维多利亚公园](/img/markdown/hktrip/victoria_park.jpg)
+
+## 2026年
+
+### 12月26日
+
+活动举办一时爽，通联回卡火葬场
+
+![回QSL卡](/img/markdown/daily/moments/251226-return_card.jpg)
+
+### 12月10日
+
+好看诶，这回颜色选对了
+
+![BT2HIT QSL](/img/markdown/daily/moments/251210-hitqsl.jpg)
+
+### 11月2日
+
+我永远也不会忘记这么大的天下转起来那一刻到底有多壮观
+
+![天线社团合影](/img/markdown/threebody/photo.jpg)
+
 ### 9月24日
 
 醍醐灌顶
