@@ -67,6 +67,8 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 
 *朋友们超棒的项目*
 
+<!--
+
 #### WS3917
 
 ![Outertale](/img/site/about/ws3917-outertale.png){: .left }
@@ -74,6 +76,8 @@ HIT本科生，主修城市规划，爱好无线电、Hi-Fi、航空和摄影（
 Outertale汉化项目，太空的奇妙冒险故事。
 
 <a href="https://www.ws3917.space/" target="_blank" style="text-decoration: none; background: transparent; border: 2px solid gray; color: gray; padding: 5px 15px; border-radius: 50px; display: inline-block; text-align: center;">主站</a>  
+
+-->
 
 #### 雨落落的小窝
 
