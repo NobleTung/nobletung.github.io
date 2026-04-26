@@ -6,10 +6,6 @@ order: 5
 ![light mode only](/img/markdown/daily/fnv_on_air_day.jpeg){: .light }
 ![dark mode only](/img/markdown/daily/fnv_on_air_night.jpeg){: .dark }
 
-## 更新表
-
-![本站更新](https://ghchart.rshah.org/nobletung)
-
 ## 最新动态
 
 ### 4月20日
