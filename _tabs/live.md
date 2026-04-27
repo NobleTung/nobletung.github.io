@@ -196,7 +196,7 @@ order: 4
 @media (prefers-color-scheme: light) {
   html:not([data-mode]) .music-item:nth-child(odd),
   html[data-mode='light'] .music-item:nth-child(odd) {
-    background: #fbfcfd;
+    background: #f6f8fa;
   }
   html:not([data-mode]) .music-item:nth-child(even),
   html[data-mode='light'] .music-item:nth-child(even) {
