@@ -17,24 +17,12 @@ document.addEventListener('DOMContentLoaded', function () {
     calIframe.src = calSrc.replace(/skin=[^&]+/, 'skin=' + skin);
   }
 
-  // ── Time and Date Clock ────────────────────────────────────
-  const clockIframe = document.getElementById('time-clock');
-  const lightClock = 'https://free.timeanddate.com/clock/iae0fjmb/fn16/fs24/fc2a2a2a/tct/pct/ahl/tt0/tm1/th1/ta1';
-  const darkClock  = 'https://free.timeanddate.com/clock/iae0fjmb/fn16/fs24/fcccc/tc1b1b1e/pct/ahl/tt0/tm1/th1/ta1';
-
-  function updateClock() {
-    if (!clockIframe) return;
-    clockIframe.src = isDarkMode() ? darkClock : lightClock;
-  }
-
   // ── 初始化 ─────────────────────────────────────────────────
   updateCalendar();
-  updateClock();
 
   // ── 监听 Chirpy 手动切换 ───────────────────────────────────
   const observer = new MutationObserver(function () {
     updateCalendar();
-    updateClock();
   });
   observer.observe(document.documentElement, {
     attributes: true,
@@ -45,7 +33,6 @@ document.addEventListener('DOMContentLoaded', function () {
   window.matchMedia('(prefers-color-scheme: dark)')
     .addEventListener('change', function () {
       updateCalendar();
-      updateClock();
     });
 
 });

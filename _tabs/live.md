@@ -4,9 +4,71 @@ icon: fa-solid fa-clock
 order: 4
 ---
 
-<iframe id="time-clock"
-    src="https://free.timeanddate.com/clock/iae0fjmb/fn16/fs24/fc2a2a2a/tct/pct/ahl/tt0/tm1/th1/ta1" 
-    frameborder="0" width="456" height="30" allowtransparency="true"></iframe>
+<style>
+  #fc-root {
+    width: 100%;
+    overflow: hidden;
+  }
+  #fc-scale-wrap {
+    transform-origin: top left;
+    display: inline-flex;
+  }
+  #fc-card {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1.1rem 1.4rem 1rem;
+    border-radius: 14px;
+    gap: 10px;
+  }
+  #fc-row-wide, #fc-row-narrow {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  #fc-label {
+    font-size: 11px;
+    font-family: Arial, sans-serif;
+    letter-spacing: .08em;
+    align-self: flex-end;
+  }
+  .fc-hf, .fc-hb {
+      position: relative;
+      overflow: hidden;
+      box-sizing: border-box;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .fc-hf::before, .fc-hb::before {
+      position: absolute;
+      content: attr(data-t);
+      text-align: center;
+      left: 0;
+      right: 0;
+      height: 76px; /* 必须等于总高度 DH */
+      line-height: 76px; /* 必须等于总高度 DH */
+    }
+
+    /* 上半部分：文字正常居中，但容器只有一半高度，自然裁掉下半部分 */
+    .fc-hf::before {
+      top: 0;
+    }
+
+    /* 下半部分：文字向上偏移半个高度，露出下半部分 */
+    .fc-hb::before {
+      bottom: 0; /* 贴紧底部 */
+    }
+
+    .fc-hf { border-bottom-style: solid; align-items: flex-start; }
+    .fc-hb { border-top-style: solid; align-items: flex-end; }
+</style>
+
+<div id="fc-root" style="min-height:1px;">
+  <div id="fc-scale-wrap"></div>
+</div>
+
+<script src="{{ '/assets/js/status/flip-clock.js' | relative_url }}"></script>
 
 
 ### 持仓市价
