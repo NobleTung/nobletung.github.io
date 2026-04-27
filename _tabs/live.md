@@ -86,8 +86,8 @@ order: 4
 .ticker-wrap {
   overflow: hidden;
   width: 100%;
-  border-top: 1px solid #d2d2d2;
-  border-bottom: 1px solid #d2d2d2;
+  border-top: 1px solid #767676;
+  border-bottom: 1px solid #767676;
   padding: 2px 0;
   opacity: 0.85;
 }
