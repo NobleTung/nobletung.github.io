@@ -182,7 +182,8 @@ order: 4
 /* 单条记录：歌名 | 歌手 | 时间 */
 .music-item {
   display: grid;
-  grid-template-columns: 1fr 1fr auto;
+  /* 将 auto 改为固定宽度，例如 6.5rem */
+  grid-template-columns: 1fr 1fr 6.5rem; 
   align-items: center;
   gap: 0 0.6rem;
   padding: 0.45rem 0.6rem;
@@ -254,7 +255,7 @@ order: 4
 }
 
 .music-col-artist {
-  font-size: 0.85em;
+  font-size: 0.9em;
   color: var(--text-muted-color);
 }
 
@@ -264,6 +265,8 @@ order: 4
   color: var(--text-muted-color);
   white-space: nowrap;
   text-align: right;
+  /* 确保时间文字在固定宽度的容器内靠右对齐 */
+  display: block; 
 }
 
 /* 底部统计 */
